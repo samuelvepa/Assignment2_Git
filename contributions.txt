@@ -1,0 +1,7 @@
+Git concepts learned:
+- Repository initialization
+- Staging files
+- Commits
+- Branches
+- Merge
+- Push and pull
